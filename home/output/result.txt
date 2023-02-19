@@ -1,0 +1,19 @@
+Text files in home/data are: 
+IF.txt
+Limerick.txt
+
+The number of words in IF.txt are: 287
+
+The number of words in Limerick.txt are: 32
+
+The grand total number of words in all files are: 319
+
+The top words in IF.txt are: 
+Word: and
+Frequency: 16
+Word: you
+Frequency: 14
+Word: if
+Frequency: 14
+
+Your IP address is: 192.168.56.1
