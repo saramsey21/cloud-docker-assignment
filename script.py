@@ -40,3 +40,7 @@ for word in topWords:
 # return machine ip address
 ipAddress = functions.find_ip()
 f.write('\n' + 'Your IP address is: ' + str(ipAddress))
+
+f.close()
+f = open("home/output/result.txt", "r")
+print(f.read())
